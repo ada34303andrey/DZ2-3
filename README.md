@@ -1,5 +1,5 @@
 
-![foto](https://disk.yandex.ru/i/_E5JO-u9IkW75g)
+![Alt text](image.png)
 
 Смирнов Андрей Валентинович
 родился 29.03.1981
